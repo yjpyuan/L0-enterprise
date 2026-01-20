@@ -91,5 +91,5 @@ git subtree pull --prefix=upstream/L0-enterprise L0-knowledge main --squash
 
 ## 相关文档
 
-- [架构设计文档](.architecture-design/)
-- [知识空间设计](.architecture-design/05-knowledge-spaces.md)
+- [架构设计文档](architecture-design/)
+- [知识空间设计](architecture-design/05-knowledge-spaces.md)
